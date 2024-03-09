@@ -16,6 +16,11 @@ const Page = async ({ params }: { params: { slug: string[] } }) => {
                     <AboutUs />
                 </div>
             )}
+            {data.thumbnail && (
+                <div className="mb-8 h-80 bg-swirl -mx-[50%] bg-black flex flex-col gap-6 justify-center overflow-hidden">
+                    <img src={data.thumbnail} alt={data.title} className=" object-cover w-full blur-sm" />
+                </div>
+            )}
             <div>
                 <div className="markdown-body">
                     <article dangerouslySetInnerHTML={{ __html: markdown }} />

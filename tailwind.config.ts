@@ -19,6 +19,9 @@ const config = {
             },
         },
         extend: {
+            backgroundImage: {
+                'swirl': "url('/GAPC-2024/assets/background.svg')",
+            },
             fontFamily: {
                 jbMono: ["JetBrains Mono", "monospace"],
             },
