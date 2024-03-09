@@ -9,7 +9,15 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
     title: "GAPC 2024",
-    description: "",
+    description: "The 2024 edition of the Groningen Algorithmic Programming Competition",
+    openGraph: {
+        type: "website",
+        locale: "en_US",
+        url: "https://fully-connected-graph.github.io/GAPC-2024/",
+        title: "Groningen Algorithmic Programming Competition 2024",
+        description: "The 2024 edition of the Groningen Algorithmic Programming Competition",
+        images: ["https://fully-connected-graph.github.io/GAPC-2024/assets/thumbnails/banner.png"],
+    }
 };
 
 export default function RootLayout({
