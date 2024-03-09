@@ -1,1 +1,1 @@
-# Welcome to GAPC 2024
+# GAPC 2024

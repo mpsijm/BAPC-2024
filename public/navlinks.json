@@ -1,10 +1,22 @@
 [
-  {
-    "name": "About",
-    "url": "/"
-  },
-  {
-    "name": "Hoi",
-    "url": "/hoi"
-  }
+    {
+        "name": "About",
+        "url": "/"
+    },
+    {
+        "name": "Sponsors",
+        "url": "/sponsors"
+    },
+    {
+        "name": "Location",
+        "url": "/location"
+    },
+    {
+        "name": "Rules",
+        "url": "/rules"
+    },
+    {
+        "name": "Register",
+        "url": "/register"
+    }
 ]
