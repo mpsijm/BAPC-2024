@@ -5,7 +5,6 @@ import { FC } from "react";
 
 export const NavBar: FC = async () => {
     async function create() {
-        "use server";
         return JSON.parse(readFileSync("public/navlinks.json", "utf-8")) as {
             name: string;
             url: string;
