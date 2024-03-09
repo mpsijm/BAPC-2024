@@ -1,5 +1,6 @@
 import AboutUs from "@/components/templates/about-us";
 import { create, walk } from "@/lib/server_utils";
+import { cn } from "@/lib/utils";
 import { notFound } from "next/navigation";
 
 const Page = async ({ params }: { params: { slug: string[] } }) => {
@@ -16,9 +17,10 @@ const Page = async ({ params }: { params: { slug: string[] } }) => {
                     <AboutUs />
                 </div>
             )}
-            {data.thumbnail && (
-                <div className="mb-8 h-80 bg-swirl -mx-[50%] bg-black flex flex-col gap-6 justify-center overflow-hidden">
-                    <img src={data.thumbnail} alt={data.title} className=" object-cover w-full blur-sm" />
+            {(data.thumbnail || data.title) && (
+                <div className="relative mb-8 h-80 bg-swirl -mx-[50%] bg-black flex flex-col gap-6 justify-center overflow-hidden">
+                    <h1 className="text-5xl text-white text-center absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10 drop-shadow-md">{data.title}</h1>
+                    <img src={data.thumbnail} alt={data.title} className="object-cover w-full blur-sm" />
                 </div>
             )}
             <div>
