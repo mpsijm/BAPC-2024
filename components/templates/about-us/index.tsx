@@ -1,6 +1,8 @@
 const AboutUs = () => {
     return (
-        <div>hi</div>
+        <div>
+
+        </div>
     )
 }
 

@@ -2,6 +2,8 @@
 thumbnail: /GAPC-2023/covers/building.png
 ---
 
+## Location
+
 The GAPC 2023 will be held at the University of Groningen, Netherlands. The event will happen in the Bernoulliborg building on the Zernike campus. The contest will take place in the study landscape, whereas the presenations will happen in BB 5161.0151.
 
 ```
