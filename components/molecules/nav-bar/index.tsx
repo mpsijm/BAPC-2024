@@ -15,7 +15,7 @@ export const NavBar: FC = async () => {
 
   return (
     <nav className="fixed top-0 h-20 w-full mb-4 flex items-center justify-center z-10 bg-black bg-opacity-[50] bg-blend-soft-light shadow-sm shadow-blue-300 ">
-      <div className="w-full max-w-4xl flex gap-4 items-center text-gray-100 max-md:px-4 max-md:max-w-full">
+      <div className="w-full max-w-4xl flex gap-4 items-center text-gray-100 max-lg:px-4 max-lg:max-w-full">
         <Link className="flex-1" href="/">
           <div className="flex flex-col items-start gap-1">
             <img src="/GAPC-2024/assets/logo.png" alt="logo" className="h-10" />

@@ -19,14 +19,14 @@ const PreviewCardProject: FC<PreviewCardProjectProps> = ({ post }) => {
   return (
     <Card className="h-72 bg-white duration-100 hover:shadow-md">
       <Link href={`/${post.link.join("/")}`} className=" cursor-pointer">
-        <div className=" z-10 rounded-t-lg overflow-clip h-20 max-md:h-24 max-sm:h-20">
+        <div className="z-10 rounded-t-lg overflow-clip h-20 max-lg:h-24 max-sm:h-20">
           <img
             src={post.thumbnail || "/assets/placeholder.png"}
             alt={post.title}
             width={500}
             height={300}
             // layout="responsive"
-            className="z-10 object-cover w-full h-20 max-md:h-24 max-sm:h-20"
+            className="z-10 object-cover w-full h-20 max-lg:h-24 max-sm:h-20"
           />
         </div>
         <CardHeader className="shadow-[0_-5px_20px_-15px_rgba(0,0,0,0.3)] z-50 flex flex-col gap-2 mb-0">

@@ -33,7 +33,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <NavBar />
-        <main className="mt-0 m-auto max-w-4xl py-20 max-md:px-4 max-md:max-w-full">
+        <main className="mt-0 m-auto max-w-4xl py-20 max-lg:px-4 max-lg:max-w-full">
           {children}
         </main>
       </body>

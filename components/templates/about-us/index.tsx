@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const AboutUs = () => {
   return (
-    <div className="bg-black -mx-[50%]">
+    <div className="bg-black w-screen -translate-x-[calc(50vw-28rem)] max-lg:-translate-x-4">
       <div
         className="h-[calc(100vh-5rem)] bg-swirl bg-no-repeat flex flex-col gap-8 justify-center items-center text-white"
         style={{ backgroundSize: "cover" }}
