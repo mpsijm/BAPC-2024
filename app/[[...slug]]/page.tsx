@@ -24,7 +24,7 @@ const Page = async ({ params }: { params: { slug: string[] } }) => {
                     <img
                         src={data.thumbnail}
                         alt={data.title}
-                        className="object-cover w-full blur-sm"
+                        className="object-cover w-full h-full blur-sm"
                     />
                 </div>
             )}
