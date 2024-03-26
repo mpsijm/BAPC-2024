@@ -14,8 +14,8 @@ const AboutUs = () => {
           className="w-80 object-contain max-sm:w-60"
         />
         <span className="text-white text-center block font-jbMono text-9xl max-sm:text-5xl backdrop-blur-sm">
-          gapc/
-          <span className="text-[#4686ff]">24</span>
+          GAPC
+          <span className="text-[#4686ff]"> 2024</span>
         </span>
         <span className="text-white text-center block font-jbMono text-lg backdrop-blur-sm">
           Made with

@@ -119,3 +119,7 @@ html {
   @apply max-w-[100%] max-h-[75vh];
   @apply mx-auto my-4;
 }
+
+body {
+  overflow-x: hidden;
+}
