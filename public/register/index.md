@@ -1,6 +1,6 @@
 ---
 title: Registration
-thumbnail: /GAPC-2024/assets/thumbnails/winners.jpeg
+thumbnail: /assets/thumbnails/winners.jpeg
 ---
 
 ## Registration
