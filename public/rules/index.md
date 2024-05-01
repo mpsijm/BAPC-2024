@@ -50,7 +50,7 @@ There will be 1 or more people that will capture digital content (photo, video e
 - The contest lasts for 4 hours.
 - From the beginning until one hour before the end of the GAPC, the scores are displayed.
 - A team is allowed a dictionary from English to their native language. The dictionary should have no notes written in them.
-- A team is allowed to bring up to 25 A4-sized pages, printed one-sided or up to 12.5 A4-sized pages, printed two-sided, of documentation. Each team member is allowed one identical copy.
+- A team is allowed to bring up to 25 A4-sized pages, printed one-sided or up to 12.5 A4-sized pages, printed two-sided, of documentation. Each team member is allowed one identical copy. Text and illustrations must be readable by a person with correctable eyesight without magnification from a distance of ½ meter. It may include handwritten comments and corrections on the fronts of pages only. The team name must be wirtten on the front page.
 - A team is allowed to bring one non-programmable wired mouse and/or keyboard. The keyboard and/or mouse needs to be handed-in during the Teams check-in session, to be checked by the jury.
 - The TCR and/or dictionary needs to be handed-in during the Teams check-in session, to be checked by the jury.
 
