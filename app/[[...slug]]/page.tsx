@@ -42,10 +42,10 @@ export default Page;
 export async function generateStaticParams() {
   const slugs = [];
 
-  for await (const file of walk("public\\")) {
+  for await (const file of walk("public/")) {
     if (file.endsWith(".md")) {
       const slug = file
-        .replace("public\\", "")
+        .replace("public/", "")
         .replace(".md", "")
         .split(/[\/\\]/);
       slugs.push({ slug });
