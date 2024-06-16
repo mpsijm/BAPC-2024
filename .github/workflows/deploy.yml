@@ -1,0 +1,32 @@
+name: Deploy to SFTP
+
+on:
+  push:
+    branches:
+      - gh-pages
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install SSH Client
+      run: sudo apt-get install -y openssh-client
+
+    - name: Set up SSH agent and keys
+      env:
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+      run: |
+        mkdir -p ~/.ssh
+        echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -H sftp.server.hostname >> ~/.ssh/known_hosts
+        ssh-add ~/.ssh/id_rsa
+
+    - name: Deploy via SFTP
+      run: |
+        # Replace 'X' with your desired directory on the SFTP server
+        rsync -avz --delete ./path/to/your/build/files/ user@sftp.server.hostname:X/
