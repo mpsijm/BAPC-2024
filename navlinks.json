@@ -4,10 +4,6 @@
     "url": "/"
   },
   {
-    "name": "Problems",
-    "url": "/problems"
-  },
-  {
     "name": "Contest",
     "url": "/contest",
     "links": [
