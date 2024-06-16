@@ -7,19 +7,19 @@ thumbnail: /assets/thumbnails/looking-at-papers.jpeg
 
 ### Definitions
 
-- GAPC: The Groningen Algorithm Programming Contest 2024
+- BAPC: The Benelux Algorithm Programming Contest 2024
 - Organisation: The event is organised by the members and friends of Fully Connected Graph
-- Website: The website is maintained by the organisation and available at <a href="https://gapc.svcover.nl/" target="_blank">here</a>.
-- Discord: The GAPC discord is the FCG discord <a href="https://discord.com/invite/JfzxyBHPsH" target="_blank">FCG Discord</a>.
+- Website: The website is maintained by the organisation and available at <a href="https://BAPC.svcover.nl/" target="_blank">here</a>.
+- Discord: The BAPC discord is the FCG discord <a href="https://discord.com/invite/JfzxyBHPsH" target="_blank">FCG Discord</a>.
 - Jury: The group responsible for creating the problem set and checking the solutions submitted by the participants.
 - Technical staff: The group of people responsible for the system (the digital environment, jury system, printing, etc.).
 - Runners: Volunteers responsible for answering questions and other tasks supervised by the organisation.
 - Crew: Organisation, Jury, Technical staff and Runners.
-- Participant: Member of a participating team that competes in the GAPC.
+- Participant: Member of a participating team that competes in the BAPC.
 
 ## Contact
 
-For any questions related to the contest, please contact the organiser either by sending a message on the GAPC discord or by sending an email to programming_committee@svcover.nl.
+For any questions related to the contest, please contact the organiser either by sending a message on the BAPC discord or by sending an email to programming_committee@svcover.nl.
 
 ## Participation
 
@@ -48,7 +48,7 @@ There will be 1 or more people that will capture digital content (photo, video e
 
 - The language of the contest is English. All written contest materials will be in English.
 - The contest lasts for 4 hours.
-- From the beginning until one hour before the end of the GAPC, the scores are displayed.
+- From the beginning until one hour before the end of the BAPC, the scores are displayed.
 - A team is allowed a dictionary from English to their native language. The dictionary should have no notes written in them.
 - A team is allowed to bring up to 25 A4-sized pages, printed one-sided or up to 12.5 A4-sized pages, printed two-sided, of documentation. Each team member is allowed one identical copy. Text and illustrations must be readable by a person with correctable eyesight without magnification from a distance of ½ meter. It may include handwritten comments and corrections on the fronts of pages only. The team name must be written on the front page.
 - A team is allowed to bring one non-programmable wired mouse and/or keyboard. The keyboard and/or mouse needs to be handed-in during the Teams check-in session, to be checked by the jury.
