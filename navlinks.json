@@ -1,22 +1,44 @@
 [
   {
-    "name": "StudyLandscape",
-    "url": "/sl-map"
+    "name": "Home",
+    "url": "/"
   },
   {
-    "name": "Rules",
-    "url": "/rules"
+    "name": "Problems",
+    "url": "/problems"
   },
   {
-    "name": "Location",
-    "url": "/location"
+    "name": "Contest",
+    "url": "/contest",
+    "links": [
+      {
+        "name": "Info",
+        "url": "/contest/"
+      },
+      {
+        "name": "Rules",
+        "url": "/contest/rules"
+      },
+      {
+        "name": "System",
+        "url": "/contest/system"
+      },
+      {
+        "name": "Location",
+        "url": "/contest/location"
+      },
+      {
+        "name": "Schedule",
+        "url": "/contest/schedule"
+      },
+      {
+        "name": "Registration",
+        "url": "/contest/registration"
+      }
+    ]
   },
   {
-    "name": "Sponsors",
-    "url": "/sponsors"
-  },
-  {
-    "name": "Schedule",
-    "url": "/schedule"
+    "name": "Contact",
+    "url": "/contact"
   }
 ]
