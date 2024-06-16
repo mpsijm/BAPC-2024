@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   title: "BAPC 2024",
   description:
     "The 2024 edition of the Groningen Algorithmic Programming Competition",
+  icons: [{ url: "/assets/favicon.png", rel: "icon", type: "image/png" }],
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -30,9 +31,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <Head>
-        <link rel="icon" type="image/png" href="/favicon.ico" />
-      </Head>
       <body className={inter.className}>
         <NavBar />
         <main className="mt-0 m-auto max-w-4xl py-20 max-lg:px-4 max-lg:max-w-full">

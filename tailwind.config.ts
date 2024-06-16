@@ -26,6 +26,8 @@ const config = {
         jbMono: ["JetBrains Mono", "monospace"],
       },
       colors: {
+        bapcblue: "#2E294E",
+        bapcred: "#C8102E",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
