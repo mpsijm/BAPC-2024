@@ -27,13 +27,6 @@ const MobileMenu: FC<MobileMenuProps> = ({ links }) => {
           <MenuIcon className="w-8 h-8" />
         </DropdownMenuTrigger>
         <DropdownMenuContent className="sm:hidden">
-          <DropdownMenuLabel>Menu</DropdownMenuLabel>
-          <DropdownMenuSeparator />
-          <DropdownMenuItem>
-            <Link href="/" className="font-jbMono">
-              Home
-            </Link>
-          </DropdownMenuItem>
           {links.map((link, index) => (
             <DropdownMenuItem key={index}>
               <Link key={index} href={link.url} className="font-jbMono">
