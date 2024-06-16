@@ -5,6 +5,7 @@ import "./globals.css";
 import "katex/dist/katex.min.css";
 import "github-markdown-css/github-markdown-light.css";
 import { NavBar } from "@/components/molecules/nav-bar";
+import Footer from "@/components/molecules/footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -31,11 +32,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={inter.className + " min-h-screen"}>
         <NavBar />
         <main className="mt-0 m-auto max-w-2xl py-20 max-lg:px-4 max-lg:max-w-full">
           {children}
         </main>
+        <Footer />
       </body>
     </html>
   );

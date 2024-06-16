@@ -1,6 +1,6 @@
 ---
 title: Problems
-thumbnail:
+thumbnail: /assets/thumbnails/rick_roll.jpg
 ---
 
 The problem sets of ... can be downloaded below:
