@@ -13,7 +13,7 @@
         <p class="text-2xl">Or here?</p>
     </div>
     <img 
-        src="/assets/images/sponsors/rug-bernoulli.png" 
+        src="/assets/sponsors/rug-bernoulli.png" 
         alt="University of Groningen; Bernoulli"
         class="w-full h-32 object-contain"
     >
