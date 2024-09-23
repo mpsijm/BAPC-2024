@@ -53,7 +53,7 @@ jobs:
           SFTP_HOST: ${{ secrets.SFTP_HOST }}
           SFTP_PORT: ${{ secrets.SFTP_PORT }}
           SFTP_USER: ${{ secrets.SFTP_USER }}
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
           REMOTE_DIR: ${{ secrets.REMOTE_DIR }}
         run: |
           mkdir -p ~/.ssh
@@ -64,4 +64,4 @@ jobs:
 
       - name: Deploy via SFTP
         run: |
-          rsync -avz -e "ssh -p $SFTP_PORT" ./out/ $SFTP_USER@$SFTP_HOST:$REMOTE_DIR
+          lftp -e "mirror -R ./out/ $REMOTE_DIR; exit" -u $SFTP_USER,$SFTP_PASSWORD -p $SFTP_PORT sftp://$SFTP_HOST
