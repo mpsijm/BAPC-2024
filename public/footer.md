@@ -8,8 +8,8 @@
     Please <a href="/contact" class="underline">contact us</a>.
 </div>
 
-<div class="flex row-reverse wrap-reverse justify-center max-w-3xl mx-auto gap-8 mb-8">
-    <div class="flex-1 border-2 border-dashed border-white rounded-lg p-4">
+<div class="flex flex-col wrap-reverse justify-center max-w-3xl mx-auto gap-8 mb-8">
+    <div class="flex-1 border-2 border-dashed border-white rounded-lg p-4 max-w-32">
         <p class="text-2xl">Or here?</p>
     </div>
     <img 
