@@ -12,9 +12,11 @@
     <div class="flex-1 border-2 border-dashed border-white rounded-lg p-4">
         <p class="text-2xl">Or here?</p>
     </div>
-    <div class="flex-1 border-2 border-dashed border-white rounded-lg p-4">
-        <p class="text-2xl">Here is also available :)</p>
-    </div>
+    <img 
+        src="/assets/images/sponsors/rug-bernoulli.png" 
+        alt="University of Groningen; Bernoulli"
+        class="w-full h-32 object-contain"
+    >
 </div>
 
 Made with ❤️ by FCG of <a href="https://svcover.nl" target="_blank" rel="noopener noreferrer" class="underline">Cover</a>
