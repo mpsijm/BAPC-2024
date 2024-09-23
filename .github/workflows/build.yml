@@ -53,6 +53,9 @@ jobs:
           SFTP_HOST: ${{ secrets.SFTP_HOST }}
           SFTP_PORT: ${{ secrets.SFTP_PORT }}
         run: |
+          # Ensure .ssh directory exists
+          mkdir -p ~/.ssh
+
           # Automatically add the SFTP server host key to known_hosts
           ssh-keyscan -p $SFTP_PORT $SFTP_HOST >> ~/.ssh/known_hosts
 
