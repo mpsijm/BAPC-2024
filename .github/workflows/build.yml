@@ -67,8 +67,5 @@ jobs:
           SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
           REMOTE_DIR: ${{ secrets.REMOTE_DIR }}
         run: |
-          # Debug: List files in the gh-pages branch directory
-          ls -al .
-
           # Upload files using lftp from the current directory
           lftp -e "mirror -R . $REMOTE_DIR; exit" -u $SFTP_USER,$SFTP_PASSWORD -p $SFTP_PORT sftp://$SFTP_HOST
