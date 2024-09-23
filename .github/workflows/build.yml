@@ -25,13 +25,13 @@ jobs:
         run: npm run build
 
       - name: Add .nojekyll file
-        run: touch ./out/.nojekyll # Adjust if needed
+        run: touch ./out/.nojekyll
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
           branch: gh-pages
-          folder: out # Folder where the build output is located
+          folder: out
 
   deploy:
     runs-on: ubuntu-latest
@@ -47,6 +47,14 @@ jobs:
 
       - name: Install lftp client
         run: sudo apt-get install -y lftp
+
+      - name: Add remote host to known hosts
+        env:
+          SFTP_HOST: ${{ secrets.SFTP_HOST }}
+          SFTP_PORT: ${{ secrets.SFTP_PORT }}
+        run: |
+          # Automatically add the SFTP server host key to known_hosts
+          ssh-keyscan -p $SFTP_PORT $SFTP_HOST >> ~/.ssh/known_hosts
 
       - name: Deploy via SFTP using password
         env:
