@@ -4,6 +4,10 @@
     "url": "/"
   },
   {
+    "name": "Location",
+    "url": "/location"
+  },
+  {
     "name": "Contest",
     "url": "/contest",
     "links": [
@@ -18,10 +22,6 @@
       {
         "name": "System",
         "url": "/contest/system"
-      },
-      {
-        "name": "Location",
-        "url": "/contest/location"
       },
       {
         "name": "Schedule",

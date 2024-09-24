@@ -2,21 +2,24 @@
     Event sponsors
 </h1>
 
-<div class="min-w-0.5 border-2 border-dashed border-white rounded-lg p-4 mx-auto my-8 max-w-lg">
-    <p class="text-2xl mb-2">You could be here!</p>
-    Interested in sponsoring this event? 
-    Please <a href="/contact" class="underline">contact us</a>.
-</div>
-
-<div class="flex flex-col wrap-reverse justify-center max-w-3xl mx-auto gap-8 mb-8">
-    <div class="flex-1 border-2 border-dashed border-white rounded-lg p-4 max-w-32">
-        <p class="text-2xl">Or here?</p>
-    </div>
+<div class="flex flex-col wrap-reverse justify-center max-w-3xl mx-auto gap-8 mb-8 grayscale brightness-0 invert">
     <img 
-        src="/assets/sponsors/rug-bernoulli.png" 
-        alt="University of Groningen; Bernoulli"
-        class="w-full h-32 object-contain"
+        src="/assets/sponsors/university-of-groningen.png" 
+        alt="University of Groningen"
+        class="w-full h-16 object-contain"
     >
+    <div class="flex flex-row justify-center gap-8">
+    <img 
+        src="/assets/sponsors/janestreet.png" 
+        alt="Jane Street"
+        class="w-full h-16 object-contain"
+    >
+    <img 
+        src="/assets/sponsors/asml.svg" 
+        alt="asml"
+        class="w-full h-16 object-contain"
+    >
+    </div>
 </div>
 
 Made with ❤️ by FCG of <a href="https://svcover.nl" target="_blank" rel="noopener noreferrer" class="underline">Cover</a>
