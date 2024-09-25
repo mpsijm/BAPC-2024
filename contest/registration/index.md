@@ -7,7 +7,7 @@ thumbnail: /assets/thumbnails/rick_roll.jpg
 
 1. Register the teams that took part in your preliminary in the ICPC system of your preliminary
 2. Promote the top-7 teams of your institution/preliminary into the ICPC system of the BAPC before Monday the 4th of October
-3. We (Groningen) will accept teams from the 4th of October onwards.
+3. We (Groningen) will accept teams from the 3th of October onwards.
 4. We (Groningen) will accept teams from each preliminary based on the following rules:
    - We can host a maximum of 40 teams, but this is subject to change.
    - Every institution will be guaranteed two teams
