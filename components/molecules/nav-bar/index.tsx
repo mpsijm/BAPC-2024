@@ -1,15 +1,19 @@
 import { readFileSync } from "fs";
 import Link from "next/link";
-import { FC, useState } from "react";
+import { FC } from "react";
 import MobileMenu from "./mobile-menu";
-import { MenuIcon } from "lucide-react";
+
+export interface MenuLink {
+  name: string;
+  url: string;
+  links?: MenuLink[];
+}
 
 export const NavBar: FC = async () => {
   async function create() {
-    return JSON.parse(readFileSync("public/navlinks.json", "utf-8")) as {
-      name: string;
-      url: string;
-    }[];
+    return JSON.parse(
+      readFileSync("public/navlinks.json", "utf-8"),
+    ) as MenuLink[];
   }
 
   const links = await create();
@@ -20,14 +24,28 @@ export const NavBar: FC = async () => {
         <Link className="flex-1" href="/">
           <img src="/assets/logo.svg" alt="logo" className="h-14" />
         </Link>
-        {links.map((link, index) => (
+        {links.map((link) => (
           <Link
-            key={index}
+            key={link.url}
             href={link.url}
             className="group py-6 transition duration-50 font-jbMono max-sm:hidden"
           >
             {link.name}
+            {link.links && "°"}
             <span className="block mt-1 max-w-0 group-hover:max-w-full duration-200 h-0.5 bg-gradient-to-r from-gray-200 to-bapcblue"></span>
+            {link.links && (
+              <div className="absolute z-20 -translate-x-10 top-14 bg-white w-50 p-4 flex flex-col group-hover:opacity-100 opacity-0 duration-200 rounded-md drop-shadow-md">
+                {link.links.map((deepLink) => (
+                  <Link
+                    key={deepLink.url}
+                    href={deepLink.url}
+                    className="font-jbMono hover:font-semibold"
+                  >
+                    {"->"} {deepLink.name}
+                  </Link>
+                ))}
+              </div>
+            )}
           </Link>
         ))}
         <MobileMenu links={links} />

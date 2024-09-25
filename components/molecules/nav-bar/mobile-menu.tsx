@@ -11,13 +11,10 @@ import {
 import { MenuIcon } from "lucide-react";
 import Link from "next/link";
 import { FC } from "react";
+import { MenuLink } from ".";
 
 interface MobileMenuProps {
-  links: {
-    name: string;
-    url: string;
-    links?: MobileMenuProps["links"];
-  }[];
+  links: MenuLink[];
 }
 
 const MobileMenu: FC<MobileMenuProps> = ({ links }) => {
