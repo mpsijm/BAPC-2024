@@ -1,3 +1,8 @@
+---
+title: Registration
+thumbnail: /assets/thumbnails/rick_roll.jpg
+---
+
 # Registration
 
 1. Register the teams that took part in your preliminary in the ICPC system of your preliminary
@@ -8,6 +13,6 @@
    - Every institution will be guaranteed two teams
    - Third teams will be granted as long as we do not exceed the maximum number of teams. If the maximum number of teams is exceeded, the third teams will be accepted based on preliminary performance, i.e. the best performing third team from all preliminaries will be first accepted, afterwards the second-best performing third team, etc.
    - Fourth (and possibly more teams) will be awarded based on preliminary performance.
-   - No (n+1)-th team will be awarded when a different eligible institution has not yet been awarded an n-th team.
+   - No `(n+1)`-th team will be awarded when a different eligible institution has not yet been awarded an `n`-th team.
 
-Note: if your city didn’t organize a preliminary, you can register teams for the BAPC directly. The same rules for acceptance will hold.
+_Note: if your city didn’t organize a preliminary, you can register teams for the BAPC directly. The same rules for acceptance will hold._

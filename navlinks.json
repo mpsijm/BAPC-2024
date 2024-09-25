@@ -12,10 +12,6 @@
     "url": "/contest",
     "links": [
       {
-        "name": "Info",
-        "url": "/contest/"
-      },
-      {
         "name": "Rules",
         "url": "/contest/rules"
       },

@@ -3,7 +3,7 @@ title: Contest
 thumbnail: /assets/thumbnails/rick_roll.jpg
 ---
 
-# The contest
+# The Contest
 
 The Benelux Algorithm Programming Contest (BAPC) is a contest in which teams from leading universities in Belgium, the Netherlands, and Luxembourg are served a series of algorithmic problems/puzzles. The goal of each team is to solve the most puzzles as possible within the set time limit. Solutions need to be programmed out on a computer and can be submitted to an automated judging system, after which the solution is checked.
 
@@ -11,7 +11,7 @@ The teams that have solved the most puzzles at the end of the contest qualify fo
 
 The BAPC 2024 is hosted by the University of Groningen, and organized by a committee of study association Cover.
 
-# Previous contests
+# Previous Contests
 
 - [BAPC 2023 hosted by the University of Amsterdam](https://2023.bapc.eu/)
 - [BAPC 2022 hosted by the Eindhoven University of Technology](https://2022.bapc.eu/)
