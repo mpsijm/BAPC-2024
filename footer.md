@@ -4,23 +4,29 @@
 </h1>
 
 <div class="flex flex-col wrap-reverse justify-center max-w-3xl mx-auto gap-8 mb-8 grayscale brightness-0 invert">
+    <a href="https://www.rug.nl/?lang=en" target="_blank" rel="noopener noreferrer">
     <img 
         src="/assets/sponsors/university-of-groningen.png" 
         alt="University of Groningen"
         class="w-full h-16 object-contain"
     >
+    </a>
     <div class="flex flex-row justify-center gap-8 max-md:flex-col">
+    <a href="https://www.janestreet.com/" target="_blank" rel="noopener noreferrer">
     <img 
         src="/assets/sponsors/janestreet.png" 
         alt="Jane Street"
         class="w-full h-16 object-contain"
     >
-    <img 
+    </a>
+    <a href="https://www.asml.com/en/" target="_blank" rel="noopener noreferrer">
+    <img
         src="/assets/sponsors/asml.svg" 
         alt="asml"
         class="w-full h-16 object-contain"
     >
     </div>
+    </a>
 </div>
 </div>
 
