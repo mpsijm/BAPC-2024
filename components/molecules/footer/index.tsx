@@ -10,7 +10,7 @@ const Footer = async () => {
 
   return (
     <footer
-      className="w-full bg-bapcblue text-white text-center py-4"
+      className="w-full text-white text-center"
       dangerouslySetInnerHTML={{ __html: markdown }}
     />
   );

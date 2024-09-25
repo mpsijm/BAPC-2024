@@ -27,7 +27,7 @@ export const NavBar: FC = async () => {
             className="group py-6 transition duration-50 font-jbMono max-sm:hidden"
           >
             {link.name}
-            <span className="block mt-1 max-w-0 group-hover:max-w-full duration-200 h-0.5 bg-gradient-to-r from-bapcred to-bapcblue"></span>
+            <span className="block mt-1 max-w-0 group-hover:max-w-full duration-200 h-0.5 bg-gradient-to-r from-gray-200 to-bapcblue"></span>
           </Link>
         ))}
         <MobileMenu links={links} />
