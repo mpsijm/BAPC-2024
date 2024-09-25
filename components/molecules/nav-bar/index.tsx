@@ -2,10 +2,11 @@ import { readFileSync } from "fs";
 import Link from "next/link";
 import { FC } from "react";
 import MobileMenu from "./mobile-menu";
+import { cn } from "@/lib/utils";
 
 export interface MenuLink {
   name: string;
-  url: string;
+  url?: string;
   links?: MenuLink[];
 }
 
@@ -27,8 +28,12 @@ export const NavBar: FC = async () => {
         {links.map((link) => (
           <Link
             key={link.url}
-            href={link.url}
-            className="group py-6 transition duration-50 font-jbMono max-sm:hidden"
+            href={link.url ?? "#"}
+            className={cn(
+              "group py-6 transition duration-50 font-jbMono max-sm:hidden hover:font-bold",
+              !link?.url &&
+                "text-blue-400 italic cursor-default hover:font-normal",
+            )}
           >
             {link.name}
             {link.links && "°"}
@@ -38,8 +43,8 @@ export const NavBar: FC = async () => {
                 {link.links.map((deepLink) => (
                   <Link
                     key={deepLink.url}
-                    href={deepLink.url}
-                    className="font-jbMono hover:font-semibold"
+                    href={deepLink.url ?? "#"}
+                    className="font-jbMono hover:font-bold"
                   >
                     {"->"} {deepLink.name}
                   </Link>

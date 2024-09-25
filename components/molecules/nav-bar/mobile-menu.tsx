@@ -12,6 +12,7 @@ import { MenuIcon } from "lucide-react";
 import Link from "next/link";
 import { FC } from "react";
 import { MenuLink } from ".";
+import { cn } from "@/lib/utils";
 
 interface MobileMenuProps {
   links: MenuLink[];
@@ -27,7 +28,14 @@ const MobileMenu: FC<MobileMenuProps> = ({ links }) => {
         {links.map((link, index) => (
           <>
             <DropdownMenuItem key={link.url}>
-              <Link key={link.url} href={link.url} className="font-jbMono">
+              <Link
+                key={link.url}
+                href={link.url ?? "#"}
+                className={cn(
+                  "font-jbMono",
+                  !link.url && "text-blue-400 italic",
+                )}
+              >
                 {link.name}
               </Link>
             </DropdownMenuItem>
