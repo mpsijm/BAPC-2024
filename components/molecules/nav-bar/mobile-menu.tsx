@@ -16,27 +16,39 @@ interface MobileMenuProps {
   links: {
     name: string;
     url: string;
+    links?: MobileMenuProps["links"];
   }[];
 }
 
 const MobileMenu: FC<MobileMenuProps> = ({ links }) => {
   return (
-    <>
-      <DropdownMenu>
-        <DropdownMenuTrigger className="sm:hidden">
-          <MenuIcon className="w-8 h-8" />
-        </DropdownMenuTrigger>
-        <DropdownMenuContent className="sm:hidden">
-          {links.map((link, index) => (
-            <DropdownMenuItem key={index}>
-              <Link key={index} href={link.url} className="font-jbMono">
+    <DropdownMenu>
+      <DropdownMenuTrigger className="sm:hidden">
+        <MenuIcon className="w-8 h-8" />
+      </DropdownMenuTrigger>
+      <DropdownMenuContent className="sm:hidden">
+        {links.map((link, index) => (
+          <>
+            <DropdownMenuItem key={link.url}>
+              <Link key={link.url} href={link.url} className="font-jbMono">
                 {link.name}
               </Link>
             </DropdownMenuItem>
-          ))}
-        </DropdownMenuContent>
-      </DropdownMenu>
-    </>
+            {(link.links ?? []).map((deepLink, index) => (
+              <DropdownMenuItem key={deepLink.url}>
+                <Link
+                  key={deepLink.url}
+                  href={deepLink.url}
+                  className="font-jbMono"
+                >
+                  {"->"} {deepLink.name}
+                </Link>
+              </DropdownMenuItem>
+            ))}
+          </>
+        ))}
+      </DropdownMenuContent>
+    </DropdownMenu>
   );
 };
 
