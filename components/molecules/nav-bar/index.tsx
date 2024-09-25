@@ -20,7 +20,7 @@ export const NavBar: FC = async () => {
 
   return (
     <nav className="fixed top-0 h-20 w-screen mb-4 flex items-center justify-center z-10 bg-white bg-opacity-[50] bg-blend-soft-light shadow-md shadow-bapcblue ">
-      <div className="w-full p-4 flex gap-8 items-center text-bapcblue max-lg:px-4 max-lg:max-w-full">
+      <div className="w-full py-4 px-16 flex gap-8 items-center text-bapcblue max-lg:px-6 max-lg:max-w-full">
         <Link className="flex-1" href="/">
           <img src="/assets/logo.svg" alt="logo" className="h-14" />
         </Link>
