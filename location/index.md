@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Location
 thumbnail: /assets/thumbnails/rick_roll.jpg
 ---
 

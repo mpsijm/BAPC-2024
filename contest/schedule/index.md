@@ -5,7 +5,7 @@ thumbnail: /assets/thumbnails/rick_roll.jpg
 
 # Schedule
 
-The day will begin with the introduction and the presentation of the rules. After that, the teams will have the opportunity to test their environment and ask questions, followed by lunch and the company fair. The contest will start at 13:00 and will last until 18:00 and the scoreboard will be frozen at 17:00. After the contest, there will be some drinks, before the solutions presentation and the awards ceremony. The day will end with dinner and drinks.
+The event will take place on the 26th of October, in Groningen. The day will begin with the introduction and the presentation of the rules. After that, the teams will have the opportunity to test their environment and ask questions, followed by lunch and the company fair. The contest will start at 13:00 and will last until 18:00 and the scoreboard will be frozen at 17:00. After the contest, there will be some drinks, before the solutions presentation and the awards ceremony. The day will end with dinner and drinks.
 
 | Start | End   | Event                                      |
 | ----- | ----- | ------------------------------------------ |
