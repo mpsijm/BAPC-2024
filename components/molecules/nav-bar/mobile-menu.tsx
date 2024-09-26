@@ -43,7 +43,7 @@ const MobileMenu: FC<MobileMenuProps> = ({ links }) => {
               <DropdownMenuItem key={deepLink.url}>
                 <Link
                   key={deepLink.url}
-                  href={deepLink.url}
+                  href={deepLink.url ?? "#"}
                   className="font-jbMono"
                 >
                   {"->"} {deepLink.name}
