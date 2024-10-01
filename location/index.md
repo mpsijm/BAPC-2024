@@ -22,7 +22,7 @@ The Netherlands
 ```
 
 <div class="w-full flex justify-center">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d598.5185402407184!2d6.536349296403739!3d53.24034056025702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c9cd1a4f77456b%3A0x9841c274f3f056e5!2sBernoulliborg!5e1!3m2!1sru!2snl!4v1727777792263!5m2!1sru!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d699.534776882915!2d6.5363493!3d53.2403406!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c9cd1a4f77456b%3A0x9841c274f3f056e5!2sBernoulliborg!5e1!3m2!1sen!2snl!4v1727779375947!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## Directions
