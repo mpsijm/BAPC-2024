@@ -14,7 +14,7 @@ This year, the BAPC is organized by [**Cover**](https://svcover.nl/), the study 
 
 ### Preliminaries
 
-- [Prelimenaries problems](/prelims/contest.pdf)
-- [Prelimenaries solutions](/prelims/solutions.pdf)
-- ~[Preliminaries testdata and solutions (140MB)](/prelims/prelims.zip)~ (sorry, git lfs bug)
+- [Preliminaries problems](/prelims/contest.pdf)
+- [Preliminaries solutions](/prelims/solutions.pdf)
+- ~~[Preliminaries testdata and solutions (140MB)](/prelims/prelims.zip)~~ (sorry, git lfs bug)
 - [Preliminaries merged scoreboard](/prelims/merged-scoreboard/index.html)
