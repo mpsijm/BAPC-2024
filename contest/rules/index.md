@@ -66,17 +66,10 @@ A company team:
 - A contestant may submit a claim of ambiguity or error in a problem statement by submitting a clarification request to a judge. If the judges agree that an ambiguity or error exists, a clarification will be issued to all contestants.
 - The jury has the right to change or withdraw problems during the contest. When this happens the jury will inform all teams.
 
-## Problems
-
-- At least six problems will be posed. So far as possible, problems will avoid dependence on detailed knowledge of a particular application area or particular contest language.
-- A contestant may submit a claim of ambiguity or error in a problem statement by submitting a clarification request to a judge. If the judges agree that an ambiguity or error exists, a clarification will be issued to all contestants.
-- The jury has the right to change or withdraw problems during the contest. When this happens the jury will inform all teams.
-
 ## Workstation
 
 - Each team will use a single workstation. The organisation is responsible for determining that teams have reasonably equivalent computing resources.
-- A solution has to be written in C, C++, Python, Java, Kotlin.
-- The jury decides per programming language which libraries and function calls are allowed to be used in the solutions. This will be published on the website before the contest starts.
+- A solution has to be written in C, C++, Python, Java or Kotlin.
 - All prints made by the teams will be brought by a runner. Participants are not allowed near the printers.
 - A team is allowed to bring up to 25 A4-sized pages, printed one-sided or up to 12.5 A4-sized pages, printed two-sided, of documentation. Each team member is allowed one identical copy.
 - A team is allowed to bring a dictionary; English to their native language.
