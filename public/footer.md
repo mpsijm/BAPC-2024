@@ -25,8 +25,15 @@
         alt="asml"
         class="w-full h-16 object-contain"
     >
-    </div>
     </a>
+    <a href="https://webbtraders.com" target="_blank" rel="noopener noreferrer">
+    <img
+        src="/assets/sponsors/webb.svg" 
+        alt="WebbTraders"
+        class="w-full h-16 object-contain"
+    >
+    </a>
+    </div>
 </div>
 </div>
 
