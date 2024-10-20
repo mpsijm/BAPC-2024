@@ -73,7 +73,7 @@ A company team:
 - All prints made by the teams will be brought by a runner. Participants are not allowed near the printers.
 - A team is allowed to bring up to 25 A4-sized pages, printed one-sided or up to 12.5 A4-sized pages, printed two-sided, of documentation. Each team member is allowed one identical copy.
 - A team is allowed to bring a dictionary; English to their native language.
-- A team is allowed to bring one non-programmable wired mouse and/or keyboard. The keyboard and/or keyboard needs to be checked by the organisation before the testing session. If the technical specifications of the mouse/keyboard mention the option of pre-programmability or wireless connectivity in any way, it will be rejected.
+- A team is allowed to bring one non-programmable wired mouse and/or keyboard. The keyboard and/or mouse needs to be checked by the organisation before the testing session. If the technical specifications of the mouse/keyboard mention the option of pre-programmability or wireless connectivity in any way, it will be rejected.
 - The usage of any kind of hardware which is not approved by the organisation is strictly forbidden, with the exception of the hardware part of the workstation and medical equipment.
 - A team is **not** allowed to bring paper and pens. The organisation will be providing paper and pens.
 - All items that are to be used during the contest, have to be handed in during registration to be checked by the organisation.
