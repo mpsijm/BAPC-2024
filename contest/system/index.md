@@ -122,11 +122,11 @@ For each language, if the above compilation step is successful then the submissi
   - kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss65536k -J-Xms1966080k -J-Xmx1966080k $@
   - Available as mykotlin
 
-Compilation and execution as described above will take place in a "sandbox" on a dedicated judging machine. The judging machine will be identical to the machines used by teams (see [Hardware](#hardware)).
+Compilation and execution as described above will take place in a "sandbox" on a dedicated judging machine. The judging machine will be identical to the machines used by teams (see Hardware above).
 
 The sandbox will allocate 2 GiB of memory; the entire program, including its runtime environment, must execute within this memory limit. For interpreted languages (Python, Java, and Kotlin) the runtime environment includes the interpreter (that is, the PyPy3 interpreter for Python and the JVM for Java/Kotlin). The sandbox memory allocation size will be the same for all languages and all contest problems. For Java and Kotlin, the above commands show the stack size and heap size settings that will be used when the program is run in the sandbox.
 
-## Documentation / Specification / Reference material--
+## Documentation / Specification / Reference materials
 
 The following reference materials will be available on the teams' workstations through the browser:
 
