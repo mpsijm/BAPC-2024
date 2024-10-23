@@ -37,31 +37,38 @@ The software configuration will consist of the following:
 - IDEs:
 
   - IntelliJ IDEA Community
-  - Version: 2023.3.2
-  - Workspace is already set up but needs to be opened from the welcome screen
-  - Plugins:
-    - IdeaVim
 
-- CLion
-  - Version: 2023.3.2
-  - Workspace is already set up
-  - Plugins:
-    - IdeaVim
-- PyCharm Community
-  - Version: 2023.3.2
-  - Workspace is already set up
-  - Plugins:
-    - IdeaVim
-- Visual Studio Code
-  - Plugins:
-    - C/C++ - Microsoft
-    - C# - Microsoft
-    - Code Runner - Jun Han
-    - Debugger for Java - Microsoft
-    - ESLint - Dirk Baeumer
-    - Language Support for Java - Red Hat
-    - Python - Microsoft
-    - TSLint - Microsoft
+    - Version: 2023.3.2
+    - Workspace is already set up but needs to be opened from the welcome screen
+    - Plugins:
+      - IdeaVim
+
+  - CLion
+
+    - Version: 2023.3.2
+    - Workspace is already set up
+    - Plugins:
+      - IdeaVim
+
+  - PyCharm Community
+
+    - Version: 2023.3.2
+    - Workspace is already set up
+    - Plugins:
+      - IdeaVim
+
+  - Visual Studio Code
+
+    - Plugins:
+      - C/C++ - Microsoft
+      - C# - Microsoft
+      - Code Runner - Jun Han
+      - Debugger for Java - Microsoft
+      - ESLint - Dirk Baeumer
+      - Language Support for Java - Red Hat
+      - Python - Microsoft
+      - TSLint - Microsoft
+
   - Code::Blocks
 
 ## Languages
@@ -135,4 +142,4 @@ The following reference materials will be available on the teams' workstations t
 - [Python 3.10 documentation](https://docs.python.org/3.10/download.html)
 - [Java® Platform, Standard Edition & Java Development Kit Version 17 API Specification](https://docs.oracle.com/en/java/javase/17/docs/api/)
 - [Kotlin Language Documentation 1.9.20 (As PDF)](https://web.archive.org/web/20240112120830/https://kotlinlang.org/docs/kotlin-reference.pdf)
-- [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/8.1/team.html)
+- [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/main/index.html)
