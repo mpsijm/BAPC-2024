@@ -16,5 +16,5 @@ This year, the BAPC is organized by [**Cover**](https://svcover.nl/), the study 
 
 - [Preliminaries problems](/prelims/contest.pdf)
 - [Preliminaries solutions](/prelims/solutions.pdf)
-- ~~[Preliminaries testdata and solutions (140MB)](/prelims/prelims.zip)~~ (sorry, git lfs bug)
+- [Preliminaries testdata and solutions (140MB)](https://chipcie.wisv.ch/archive/2024/dapc/solutions.zip) (DAPC logo, but it's the right file)
 - [Preliminaries merged scoreboard](/prelims/merged-scoreboard/index.html)
