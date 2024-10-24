@@ -5,7 +5,7 @@ thumbnail: /assets/thumbnails/rick_roll.jpg
 
 # Teams
 
-The following teams are competing in BAPC 2024. The numbers in parentheses represent the location of the team’s workstation.
+The following teams are competing in BAPC 2024. The numbers in parentheses represent the location of the team's workstation.
 
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
