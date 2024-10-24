@@ -9,7 +9,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/TUD.png" alt="Delft University of Technology" class="object-contain h-32 w-32">
+        <img src="/assets/schools/TUD.png" alt="Delft University of Technology" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Delft University of Technology</h2>
@@ -20,7 +20,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/TUe.png" alt="Eindhoven University of Technology" class="object-contain h-32 w-32">
+        <img src="/assets/schools/TUe.png" alt="Eindhoven University of Technology" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Eindhoven University of Technology</h2>
@@ -31,7 +31,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/HL.png" alt="Hogeschool Leiden" class="object-contain h-32 w-32">
+        <img src="/assets/schools/HL.png" alt="Hogeschool Leiden" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Hogeschool Leiden</h2>
@@ -42,7 +42,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/KUL.png" alt="KU Leuven" class="object-contain h-32 w-32">
+        <img src="/assets/schools/KUL.png" alt="KU Leuven" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">KU Leuven</h2>
@@ -53,7 +53,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/LU.png" alt="Leiden University" class="object-contain h-32 w-32">
+        <img src="/assets/schools/LU.png" alt="Leiden University" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Leiden University</h2>
@@ -64,7 +64,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/RU.png" alt="Radboud University" class="object-contain h-32 w-32">
+        <img src="/assets/schools/RU.png" alt="Radboud University" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Radboud University</h2>
@@ -75,7 +75,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/RUG.png" alt="Rijksuniversiteit Groningen" class="object-contain h-32 w-32">
+        <img src="/assets/schools/RUG.png" alt="Rijksuniversiteit Groningen" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Rijksuniversiteit Groningen</h2>
@@ -86,7 +86,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/UvA.png" alt="Universiteit van Amsterdam" class="object-contain h-32 w-32">
+        <img src="/assets/schools/UvA.png" alt="Universiteit van Amsterdam" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Universiteit van Amsterdam</h2>
@@ -97,7 +97,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/UL.png" alt="University of Luxembourg" class="object-contain h-32 w-32">
+        <img src="/assets/schools/UL.png" alt="University of Luxembourg" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">University of Luxembourg</h2>
@@ -108,7 +108,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/UT.png" alt="University of Twente" class="object-contain h-32 w-32">
+        <img src="/assets/schools/UT.png" alt="University of Twente" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">University of Twente</h2>
@@ -119,7 +119,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/UM.png" alt="Universität Maastricht" class="object-contain h-32 w-32">
+        <img src="/assets/schools/UM.png" alt="Universität Maastricht" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Universität Maastricht</h2>
@@ -130,7 +130,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/UCL.png" alt="Université Catholique de Louvain" class="object-contain h-32 w-32">
+        <img src="/assets/schools/UCL.png" alt="Université Catholique de Louvain" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Université Catholique de Louvain</h2>
@@ -141,7 +141,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/UMONS.png" alt="Université de Mons" class="object-contain h-32 w-32">
+        <img src="/assets/schools/UMONS.png" alt="Université de Mons" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Université de Mons</h2>
@@ -152,7 +152,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/UU.png" alt="Utrecht University" class="object-contain h-32 w-32">
+        <img src="/assets/schools/UU.png" alt="Utrecht University" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Utrecht University</h2>
@@ -163,7 +163,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 </div>
 <div class="flex flex-row gap-2 justify-start items-center">
     <div class="w-1/3 h-full">
-        <img src="assets/schools/VU.png" alt="Vrije Universiteit" class="object-contain h-32 w-32">
+        <img src="/assets/schools/VU.png" alt="Vrije Universiteit" class="object-contain h-32 w-32">
     </div>
     <div class="flex flex-col">
         <h2 class="text-lg font-semibold">Vrije Universiteit</h2>
