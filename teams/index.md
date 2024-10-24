@@ -178,7 +178,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 <div class="flex flex-row flex-wrap gap-4 text-center justify-center">
 <div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
     <img 
-        src="assets/companies/asml.png" 
+        src="/assets/companies/asml.png" 
         alt="ASML" 
         class="object-contain h-20 w-32 drop-shadow-md"
         style="background-color: unset;"
@@ -188,7 +188,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 
 <div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
     <img 
-        src="assets/companies/booking-1.png" 
+        src="/assets/companies/booking-1.png" 
         alt="Booking" 
         class="object-contain h-20 w-32 drop-shadow-md"
         style="background-color: unset;"
@@ -198,7 +198,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 
 <div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
     <img 
-        src="assets/companies/booking-2.png" 
+        src="/assets/companies/booking-2.png" 
         alt="Booking" 
         class="object-contain h-20 w-32 drop-shadow-md"
         style="background-color: unset;"
@@ -208,7 +208,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 
 <div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
     <img 
-        src="assets/companies/ing.png" 
+        src="/assets/companies/ing.png" 
         alt="ING" 
         class="object-contain h-20 w-32 drop-shadow-md"
         style="background-color: unset;"
@@ -218,7 +218,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 
 <div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
     <img 
-        src="assets/companies/ortec.png" 
+        src="/assets/companies/ortec.png" 
         alt="ORTEC" 
         class="object-contain h-20 w-32 drop-shadow-md"
         style="background-color: unset;"
@@ -228,7 +228,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 
 <div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
     <img 
-        src="assets/companies/vortech.png" 
+        src="/assets/companies/vortech.png" 
         alt="VORtech" 
         class="object-contain h-20 w-32 drop-shadow-md"
         style="background-color: unset;"
@@ -238,7 +238,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 
 <div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
     <img 
-        src="assets/companies/betterbe.png" 
+        src="/assets/companies/betterbe.png" 
         alt="BetterBe" 
         class="object-contain h-20 w-32 drop-shadow-md"
         style="background-color: unset;"
@@ -248,7 +248,7 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
 
 <div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
     <img 
-        src="assets/companies/cwi.png" 
+        src="/assets/companies/cwi.png" 
         alt="CWI" 
         class="object-contain h-20 w-32 drop-shadow-md"
         style="background-color: unset;"
