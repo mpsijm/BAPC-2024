@@ -172,3 +172,87 @@ The following teams are competing in BAPC 2024. The numbers in parentheses repre
         </ul>
     </div>
 </div>
+
+## Company Teams
+
+<div class="flex flex-row flex-wrap gap-4 text-center justify-center">
+<div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
+    <img 
+        src="assets/companies/asml.png" 
+        alt="ASML" 
+        class="object-contain h-20 w-32 drop-shadow-md"
+        style="background-color: unset;"
+    >
+    <span>ASML <b>(10)</b></span>
+</div>
+
+<div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
+    <img 
+        src="assets/companies/booking-1.png" 
+        alt="Booking" 
+        class="object-contain h-20 w-32 drop-shadow-md"
+        style="background-color: unset;"
+    >
+    <span>Booking <b>(19)</b></span>
+</div>
+
+<div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
+    <img 
+        src="assets/companies/booking-2.png" 
+        alt="Booking" 
+        class="object-contain h-20 w-32 drop-shadow-md"
+        style="background-color: unset;"
+    >
+    <span>Booking <b>(52)</b></span>
+</div>
+
+<div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
+    <img 
+        src="assets/companies/ing.png" 
+        alt="ING" 
+        class="object-contain h-20 w-32 drop-shadow-md"
+        style="background-color: unset;"
+    >
+    <span>ING <b>(34)</b></span>
+</div>
+
+<div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
+    <img 
+        src="assets/companies/ortec.png" 
+        alt="ORTEC" 
+        class="object-contain h-20 w-32 drop-shadow-md"
+        style="background-color: unset;"
+    >
+    <span>ORTEC <b>(46)</b></span>
+</div>
+
+<div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
+    <img 
+        src="assets/companies/vortech.png" 
+        alt="VORtech" 
+        class="object-contain h-20 w-32 drop-shadow-md"
+        style="background-color: unset;"
+    >
+    <span>VORtech <b>(54)</b></span>
+</div>
+
+<div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
+    <img 
+        src="assets/companies/betterbe.png" 
+        alt="BetterBe" 
+        class="object-contain h-20 w-32 drop-shadow-md"
+        style="background-color: unset;"
+    >
+    <span>BetterBe <b>(53)</b></span>
+</div>
+
+<div class="w-full p-4 h-full rounded-md bg-gray-300 md:w-[30%]">
+    <img 
+        src="assets/companies/cwi.png" 
+        alt="CWI" 
+        class="object-contain h-20 w-32 drop-shadow-md"
+        style="background-color: unset;"
+    >
+    <span>CWI <b>(16)</b></span>
+</div>
+</div>
