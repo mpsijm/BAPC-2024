@@ -4,6 +4,10 @@
     "url": "/"
   },
   {
+    "name": "Teams",
+    "url": "/teams"
+  },
+  {
     "name": "Location",
     "url": "/location"
   },
