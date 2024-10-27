@@ -11,6 +11,7 @@ This year, the BAPC is organized by [**Cover**](https://svcover.nl/), the study 
 
 - [BAPC problems](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [BAPC solutions](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [BAPC scoreboard](/scoreboard/index.html)
 
 ### Preliminaries
 
