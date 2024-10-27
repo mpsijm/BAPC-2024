@@ -9,15 +9,15 @@ The event will take place on the 26th of October, in Groningen. The day will beg
 
 **Registration is going to be in [Energy Academy Europe](/location/)**
 
-| Start | End   | Event                                      |
-| ----- | ----- | ------------------------------------------ |
-| 9:30  | 10:30 | Registration (Energy Academy Europe)       |
-| 10:30 | 11:00 | Opening talks                              |
-| 11:10 | 11:40 | Test session                               |
-| 11:45 | 12:00 | Q & A session                              |
-| 12:00 | 12:45 | Lunch and company fair                     |
-| 13:00 | 18:00 | Contest (scoreboard frozen at 17:00)       |
-| 14:30 | 15:30 | Coach meeting                              |
-| 18:00 | 18:30 | Drinks                                     |
-| 18:30 | 19:30 | Solutions presentation and Awards ceremony |
-| 19:30 | 21:00 | Dinner and drinks                          |
+| Start | End   | Event                                      | Location              |
+| ----- | ----- | ------------------------------------------ | --------------------- |
+| 9:30  | 10:30 | Registration                               | Energy Academy Europe |
+| 10:30 | 11:00 | Opening talks                              | Bernoulliborg 151     |
+| 11:10 | 11:40 | Test session                               | BB Study landscape    |
+| 11:45 | 12:00 | Q & A session                              | Bernoulliborg 151     |
+| 12:00 | 12:45 | Lunch                                      | Energy Academy Europe |
+| 13:00 | 18:00 | Contest (scoreboard frozen at 17:00)       | BB Study landscape    |
+| 14:30 | 15:30 | Coach meeting                              | Bernoulliborg 151     |
+| 18:00 | 18:30 | Break                                      | Bernoulliborg 134     |
+| 18:30 | 19:30 | Solutions presentation and Awards ceremony | Bernoulliborg 151     |
+| 19:30 | 21:00 | Dinner and drinks                          | Energy Academy Europe |
