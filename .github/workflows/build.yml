@@ -12,8 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          lfs: true # Enable Git LFS fetching
 
       - name: Use Node.js
         uses: actions/setup-node@v3
@@ -46,7 +44,6 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: gh-pages # Check out the gh-pages branch
-          lfs: true # Ensure Git LFS files are included in the checkout
 
       - name: Install lftp client
         run: sudo apt-get install -y lftp
