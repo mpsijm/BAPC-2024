@@ -9,9 +9,11 @@ This year, the BAPC is organized by [**Cover**](https://svcover.nl/), the study 
 
 ## Contest materials
 
-- [BAPC problems](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [BAPC solutions](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [BAPC problems](/bapc/problemset.pdf)
+- [BAPC solutions](/bapc/solutions.pdf)
+- ~~[BAPC testdata and solutions (204MB)](/bapc/solutions.zip)~~ (coming soon)
 - [BAPC scoreboard](/scoreboard/index.html)
+- [BAPC photos](https://svcover.nl/photos/1603) (by Cover)
 
 ### Preliminaries
 
