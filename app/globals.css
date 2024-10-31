@@ -78,7 +78,10 @@
 
 @font-face {
   font-family: "JetBrains Mono";
-  src: url("/assets/JetBrainsMono/fonts/webfontss/JetBrainsMono-Regular.woff2")
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://fonts.gstatic.com/s/jetbrainsmono/v4/1cXwaULf5faJShKj0TcD6ZBMCuHI8Q.woff2")
     format("woff2");
 }
 
