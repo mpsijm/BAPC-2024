@@ -13,7 +13,7 @@ This year, the BAPC is organized by [**Cover**](https://svcover.nl/), the study 
 - [BAPC solutions](/bapc/solutions.pdf)
 - [BAPC testdata and solutions (204MB)][bapc-zip]
 - [BAPC scoreboard](/scoreboard/index.html)
-- [BAPC photos](https://svcover.nl/photos/1603) (by Cover)
+- [BAPC photos](https://svcover.nl/photos/1603)q (by Cover)
 
 ### Preliminaries
 
@@ -22,5 +22,5 @@ This year, the BAPC is organized by [**Cover**](https://svcover.nl/), the study 
 - [Preliminaries testdata and solutions (133MB)][prelim-zip]
 - [Preliminaries merged scoreboard](/prelims/merged-scoreboard/index.html)
 
-[bapc-zip]: https://github.com/Fully-Connected-Graph/BAPC-2024/raw/refs/heads/main/public/bapc/solutions.zip?download=
+[bapc-zip]: https://chipcie.wisv.ch/archive/2024/bapc/solutions.zip
 [prelim-zip]: https://github.com/Fully-Connected-Graph/BAPC-2024/raw/refs/heads/main/public/prelims/prelims.zip?download=
